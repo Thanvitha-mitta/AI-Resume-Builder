@@ -65,7 +65,7 @@ function Summary({ resumeInfo, enanbledNext, enanbledPrev }) {
 
   const GenerateSummeryFromAI = async () => {
     setLoading(true);
-    console.log("Generate Summery From AI for", resumeInfo?.jobTitle);
+    console.log("Generate Summary From AI for", resumeInfo?.jobTitle);
     if (!resumeInfo?.jobTitle) {
       toast("Please Add Job Title");
       setLoading(false);
