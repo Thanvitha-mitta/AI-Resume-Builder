@@ -202,8 +202,6 @@ git push origin feature-name
 
 
 
-- [@Sahid Raja Ansari](https://www.linkedin.com/in/sahidrajaansari/)
-- [@Shaharyar Alam](https://www.linkedin.com/in/shaharyar-alam-305322208/)
-
 
 ---
+
